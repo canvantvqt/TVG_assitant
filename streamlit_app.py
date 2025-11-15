@@ -4,7 +4,7 @@ import sys
 import os
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from main import AssistantVoice
+#from main import AssistantVoice
 
 import streamlit as st
 import threading
