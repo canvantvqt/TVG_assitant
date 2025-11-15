@@ -1,0 +1,95 @@
+{
+  "name": "Trung Vuong Garden",
+  "description": "Khu giáo dục trải nghiệm và vui chơi Trung Vương Garden tại Quảng Trị – địa điểm lý tưởng cho gia đình, học sinh, và du khách khám phá thiên nhiên, học hỏi và thư giãn.",
+  "contact": {
+    "address": "Xã Cồn Tiên, Quảng Trị (Gio An, Gio Linh cũ)",
+    "hotline": "0935 010 767",
+    "note": "Nhà hàng Champa chỉ nhận đặt ăn trước qua Fanpage hoặc hotline. Bãi đỗ xe miễn phí bên trong khu du lịch."
+  },
+  "promotion": {
+    "title": "Deal Hot Cuối Năm",
+    "description": "Giảm 50% cho vé vào cổng & tất cả dịch vụ vui chơi nhân dịp Ngày Nhà Giáo Việt Nam 20 tháng 11.",
+    "time": "Áp dụng từ ngày 15 tháng 11 đến 20 tháng 11",
+    "activities": [
+      "Trượt phao cầu vồng",
+      "Đua xe Gokart",
+      "Cưỡi ngựa",
+      "Khám phá Sở thú ăn chay",
+      "Check-in thác Apsara, bến Thiên Cầm, hồ Thiên Nga..."
+    ]
+  },
+  "services": {
+    "ticket": {
+      "title": "Vé Tham Quan",
+      "details": [
+        {"đối_tượng": "Người lớn", "chiều_cao": "Trên 140cm", "giá_vé": "100.000 VND"},
+        {"đối_tượng": "Trẻ em", "chiều_cao": "100cm - 140cm", "giá_vé": "50.000 VND"},
+        {"đối_tượng": "Trẻ nhỏ", "chiều_cao": "Dưới 100cm", "giá_vé": "Miễn phí"}
+      ],
+      "bao_gồm": [
+        "Vườn cây nhiệt đới",
+        "Vườn chim Aviary",
+        "Sở thú ăn chay",
+        "Thác nước Apsara",
+        "Suối đá Mỏ Cối",
+        "Bến Thiên Cầm",
+        "Nhà trẻ cộng đồng",
+        "Vườn tượng cảnh quan",
+        "Hồ Thiên Nga",
+        "Cầu Kiều"
+      ]
+    },
+    "experience": {
+      "title": "Hoạt Động Trải Nghiệm",
+      "details": [
+        {"hoạt_động": "Cưỡi ngựa đua", "giá_vé": "50.000 – 100.000 VND/người"},
+        {"hoạt_động": "Bé bơi POOL PARTY", "giá_vé": "50.000 VND/người"},
+        {"hoạt_động": "Xe đạp đôi & đơn", "giá_vé": "30.000 – 50.000 VND/xe/60 phút"},
+        {"hoạt_động": "Xe điện tham quan", "giá_vé": "20.000 VND/khách/1 vòng"},
+        {"hoạt_động": "Thuyền Thiên Nga", "giá_vé": "100.000 VND/thuyền/20 phút"},
+        {"hoạt_động": "Thuyền SUP hoặc Kayak", "giá_vé": "100.000 VND/thuyền/60 phút"}
+      ]
+    },
+    "new_experience": {
+      "title": "Trải Nghiệm Mới",
+      "details": [
+        {"hoạt_động": "Trượt phao cầu vồng", "giá_vé": "50.000 VND/3 lượt/người"},
+        {"hoạt_động": "Xe đua GOKART", "giá_vé": "80.000 – 120.000 VND/xe/10 phút"}
+      ]
+    }
+  },
+  "faq": [
+    {
+      "question": ["giờ mở cửa", "lịch hoạt động", "thời gian hoạt động"],
+      "answer": "Trưng Vương Garden mở cửa từ 7 giờ sáng đến 5 giờ chiều, hàng ngày, kể cả cuối tuần."
+    },
+    {
+      "question": ["giá vé", "vé tham quan", "học phí dịch vụ"],
+      "answer": "Hiện giá vé tham quan là 50.000 đồng cho trẻ em, 100.000 đồng cho người lớn. Trẻ dưới 100cm miễn phí. Các dịch vụ vui chơi trải nghiệm tính phí riêng."
+    },
+    {
+      "question": ["khuyến mãi", "deal hot", "ưu đãi"],
+      "answer": "DEAL HOT CUỐI NĂM: Giảm 50% vé vào cổng và tất cả dịch vụ vui chơi nhân dịp Ngày Nhà Giáo Việt Nam, áp dụng từ 15 tháng 11 đến 20 tháng 11."
+    },
+    {
+      "question": ["trải nghiệm", "vui chơi", "hoạt động ngoài trời"],
+      "answer": "Khu Garden có nhiều trải nghiệm: trượt phao cầu vồng, đua xe Gokart, cưỡi ngựa, câu cá, chèo thuyền, bể bơi, cầu trượt phao,..."
+    },
+    {
+      "question": ["ẩm thực", "nhà hàng", "ăn uống"],
+      "answer": "Nhà hàng Champa có kiến trúc tre đặc trưng, phục vụ ẩm thực địa phương. Lưu ý nhà hàng chỉ nhận đặt trước qua Fanpage hoặc hotline."
+    },
+    {
+      "question": ["liên hệ", "hotline", "địa chỉ"],
+      "answer": "Trưng Vương Garden nằm tại Xã Cồn Tiên, Quảng Trị. Hotline: 0935 010 767. Bản đồ: https://maps.app.goo.gl/Gdyfod7kpAT41c7g9"
+    },
+    {
+      "question": ["bãi đỗ xe", "parking"],
+      "answer": "Bãi đỗ xe MIỄN PHÍ nằm bên trong khu du lịch."
+    },
+    {
+      "question": ["tiktok", "mạng xã hội"],
+      "answer": "Tiktok Trưng Vương Garden: https://www.tiktok.com/@trungvuonggarden"
+    }
+  ]
+}
